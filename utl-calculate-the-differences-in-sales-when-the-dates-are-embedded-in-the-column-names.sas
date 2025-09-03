@@ -11,7 +11,7 @@ https://communities.sas.com/t5/user/viewprofilepage/user-id/18408
 PROBLEM
 ========
 
-We want to compute then difference between current sales and the previous month.
+We want to compute then difference between current sales and the previous month, in the variable name.
 
 If current date is 2021-01, we look for the column that has the previous month.
 The previous month in this case is STOCK_202012, thus the difference we want
