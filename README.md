@@ -15,7 +15,7 @@ Calculate the differences in sales from the previous month when the dates are em
 
     We want to compute then difference between current sales and the previous month.
 
-    If current date is 2021-01, we look for the column that has the previous month.
+    If current date is 2021-01, we look for the column that has the previous month, in the variable name.
     The previous month in this case is STOCK_202012, thus the difference we want
     is
 
